@@ -18,7 +18,7 @@ Sistema Full Stack de gerenciamento de tarefas (To-Do List), com autenticação 
 * Listagem de tarefas
 * Exclusão de tarefas
 
-## ⚙️ Como rodar o projeto
+## Como rodar o projeto
 
 ### Backend
 
